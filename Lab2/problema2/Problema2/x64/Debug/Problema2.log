@@ -1,0 +1,10 @@
+﻿  Globals.cpp
+  main.cpp
+  Student.cpp
+  Generating Code...
+C:\Users\Denis\Desktop\OOP\OOP2024\Lab2\problema2\Problema2\main.cpp(14,10): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Denis\Desktop\OOP\OOP2024\Lab2\problema2\Problema2\main.cpp(15,10): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Denis\Desktop\OOP\OOP2024\Lab2\problema2\Problema2\main.cpp(20,10): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Denis\Desktop\OOP\OOP2024\Lab2\problema2\Problema2\main.cpp(21,10): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Denis\Desktop\OOP\OOP2024\Lab2\problema2\Problema2\main.cpp(22,10): warning C4305: 'argument': truncation from 'double' to 'float'
+  Problema2.vcxproj -> C:\Users\Denis\Desktop\OOP\OOP2024\Lab2\problema2\x64\Debug\Problema2.exe
