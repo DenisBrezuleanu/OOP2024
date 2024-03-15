@@ -1,0 +1,402 @@
+﻿  Canvas.cpp
+C:\Users\Denis\Desktop\OOP\OOP2024\Lab3\problema1(try)\Lab3problema\Canvas.h(14,1): error C2143: syntax error: missing ';' before '}'
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt.h(125,1): error C2059: syntax error: 'string'
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt.h(125,1): error C2143: syntax error: missing ';' before '{'
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt.h(125,1): error C2447: '{': missing function header (old-style formal list?)
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\errno.h(26,22): error C2143: syntax error: missing ';' before '__cdecl'
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\errno.h(26,22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\errno.h(26,57): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\errno.h(27,22): error C2143: syntax error: missing ';' before '__cdecl'
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\errno.h(27,22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\errno.h(27,59): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\errno.h(32,22): error C2143: syntax error: missing ';' before '__cdecl'
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\errno.h(32,22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\errno.h(32,70): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\errno.h(33,22): error C2143: syntax error: missing ';' before '__cdecl'
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\errno.h(33,22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\errno.h(33,73): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_memcpy_s.h(39,34): error C2143: syntax error: missing ';' before '__cdecl'
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_memcpy_s.h(39,26): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_memcpy_s.h(39,34): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_memcpy_s.h(41,66): error C2061: syntax error: identifier 'rsize_t'
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_memcpy_s.h(45,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_memcpy_s.h(46,13): error C2065: '_SourceSize': undeclared identifier
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_memcpy_s.h(51,9): error C3861: '_invalid_parameter_noinfo': identifier not found
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_memcpy_s.h(52,13): error C2065: '_Source': undeclared identifier
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_memcpy_s.h(52,32): error C2065: '_DestinationSize': undeclared identifier
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_memcpy_s.h(52,51): error C2065: '_SourceSize': undeclared identifier
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_memcpy_s.h(54,37): error C2065: '_DestinationSize': undeclared identifier
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_memcpy_s.h(56,13): error C2065: '_Source': undeclared identifier
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_memcpy_s.h(56,13): error C3861: '_invalid_parameter_noinfo': identifier not found
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_memcpy_s.h(57,13): error C2065: '_DestinationSize': undeclared identifier
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_memcpy_s.h(57,13): error C2065: '_SourceSize': undeclared identifier
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_memcpy_s.h(57,13): error C3861: '_invalid_parameter_noinfo': identifier not found
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_memcpy_s.h(62,30): error C2065: '_Source': undeclared identifier
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_memcpy_s.h(62,39): error C2065: '_SourceSize': undeclared identifier
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_memcpy_s.h(67,34): error C2143: syntax error: missing ';' before '__cdecl'
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_memcpy_s.h(67,26): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_memcpy_s.h(67,34): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_memcpy_s.h(69,66): error C2061: syntax error: identifier 'rsize_t'
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_memcpy_s.h(73,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_memcpy_s.h(74,13): error C2065: '_SourceSize': undeclared identifier
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_memcpy_s.h(79,9): error C3861: '_invalid_parameter_noinfo': identifier not found
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_memcpy_s.h(80,9): error C2065: '_Source': undeclared identifier
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_memcpy_s.h(80,9): error C3861: '_invalid_parameter_noinfo': identifier not found
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_memcpy_s.h(81,9): error C2065: '_DestinationSize': undeclared identifier
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_memcpy_s.h(81,9): error C2065: '_SourceSize': undeclared identifier
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_memcpy_s.h(81,9): error C3861: '_invalid_parameter_noinfo': identifier not found
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_memcpy_s.h(83,31): error C2065: '_Source': undeclared identifier
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_memcpy_s.h(83,40): error C2065: '_SourceSize': undeclared identifier
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_memory.h(39,33): error C2061: syntax error: identifier '_locale_t'
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(32,22): error C2143: syntax error: missing ';' before '__cdecl'
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(32,22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(34,14): error C2061: syntax error: identifier 'rsize_t'
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(36,10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(39,22): error C2143: syntax error: missing ';' before '__cdecl'
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(39,22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(41,14): error C2061: syntax error: identifier 'rsize_t'
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(43,10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(46,22): error C2143: syntax error: missing ';' before '__cdecl'
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(46,22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(48,41): error C2061: syntax error: identifier 'rsize_t'
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(51,10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(54,22): error C2143: syntax error: missing ';' before '__cdecl'
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(54,22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(56,38): error C2061: syntax error: identifier 'rsize_t'
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(59,10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(93,1): error C2988: unrecognizable template declaration/definition
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(93,1): error C2143: syntax error: missing ';' before '__cdecl'
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(93,1): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(93,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(93,1): error C2732: linkage specification contradicts earlier specification for 'errno_t'
+  (compiling source file 'Canvas.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(93,1):
+  see declaration of 'errno_t'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(93,1): warning C4273: 'errno_t': inconsistent dll linkage
+  (compiling source file 'Canvas.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(54,14):
+  see previous definition of 'errno_t'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(93,1): error C2065: '_Size': undeclared identifier
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(97,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(93,1): error C2447: '{': missing function header (old-style formal list?)
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(113,1): error C2988: unrecognizable template declaration/definition
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(113,1): error C2143: syntax error: missing ';' before '__cdecl'
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(113,1): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(113,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(113,1): error C2374: 'errno_t': redefinition; multiple initialization
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(113,1): error C2065: '_Size': undeclared identifier
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(117,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(113,1): error C2447: '{': missing function header (old-style formal list?)
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(166,37): error C3861: 'wcsnlen': identifier not found
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(171,1): error C2988: unrecognizable template declaration/definition
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(171,1): error C2143: syntax error: missing ';' before '__cdecl'
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(171,1): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(171,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(171,1): error C2374: 'errno_t': redefinition; multiple initialization
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(171,1): error C2065: '_Size': undeclared identifier
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(176,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(171,1): error C2447: '{': missing function header (old-style formal list?)
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(193,1): error C2988: unrecognizable template declaration/definition
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(193,1): error C2143: syntax error: missing ';' before '__cdecl'
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(193,1): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(193,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(193,1): error C2374: 'errno_t': redefinition; multiple initialization
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(193,1): error C2065: '_Size': undeclared identifier
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(198,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(193,1): error C2447: '{': missing function header (old-style formal list?)
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(244,16): error C3861: 'wcstok': identifier not found
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(258,20): error C2660: 'wcstok': function does not take 3 arguments
+  (compiling source file 'Canvas.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(253,35):
+  see declaration of 'wcstok'
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(258,20):
+  while trying to match the argument list '(wchar_t *, const wchar_t *, int)'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(273,18): error C2988: unrecognizable template declaration/definition
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(273,18): error C2143: syntax error: missing ';' before '__cdecl'
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(279,1): error C2988: unrecognizable template declaration/definition
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(279,1): error C2143: syntax error: missing ';' before '__cdecl'
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(279,1): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(279,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(279,1): error C2374: 'errno_t': redefinition; multiple initialization
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(279,1): error C2065: '_Size': undeclared identifier
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(283,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(279,1): error C2447: '{': missing function header (old-style formal list?)
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(292,41): error C2988: unrecognizable template declaration/definition
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(292,41): error C2143: syntax error: missing ';' before '__cdecl'
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(298,1): error C2988: unrecognizable template declaration/definition
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(298,1): error C2143: syntax error: missing ';' before '__cdecl'
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(298,1): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(298,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(298,1): error C2374: 'errno_t': redefinition; multiple initialization
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(298,1): error C2065: '_Size': undeclared identifier
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(302,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(298,1): error C2447: '{': missing function header (old-style formal list?)
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(312,14): error C2061: syntax error: identifier '_locale_t'
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(325,32): error C2061: syntax error: identifier '_locale_t'
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(328,37): error C2988: unrecognizable template declaration/definition
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(328,37): error C2143: syntax error: missing ';' before '__cdecl'
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(335,1): error C2988: unrecognizable template declaration/definition
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(335,1): error C2143: syntax error: missing ';' before '__cdecl'
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(335,1): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'Canvas.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(335,1): error C1003: error count exceeds 100; stopping compilation
+  (compiling source file 'Canvas.cpp')
+  
+  main.cpp
+C:\Users\Denis\Desktop\OOP\OOP2024\Lab3\problema1(try)\Lab3problema\Canvas.h(14,1): error C2143: syntax error: missing ';' before '}'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Denis\Desktop\OOP\OOP2024\Lab3\problema1(try)\Lab3problema\main.cpp(5,7): error C2059: syntax error: 'using namespace'
+  Generating Code...

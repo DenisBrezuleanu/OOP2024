@@ -13,6 +13,7 @@ bool NumberList::Add(int x) {
 }
 void NumberList::Sort()
 {
+    ///sort(number , numbers+count);
     int i, j, aux;
     for (i = 0; i < count - 1; i++)
         for (j = i + 1; j < count; j++)

@@ -1,0 +1,10 @@
+﻿  Canvas.cpp
+  main.cpp
+  Generating Code...
+C:\Users\Denis\Desktop\OOP\OOP2024\Lab3\problema2\problema2\problema2\main.cpp(12,22): warning C4309: 'argument': truncation of constant value
+C:\Users\Denis\Desktop\OOP\OOP2024\Lab3\problema2\problema2\problema2\main.cpp(13,29): warning C4309: 'argument': truncation of constant value
+C:\Users\Denis\Desktop\OOP\OOP2024\Lab3\problema2\problema2\problema2\main.cpp(14,29): warning C4309: 'argument': truncation of constant value
+C:\Users\Denis\Desktop\OOP\OOP2024\Lab3\problema2\problema2\problema2\main.cpp(15,32): warning C4309: 'argument': truncation of constant value
+C:\Users\Denis\Desktop\OOP\OOP2024\Lab3\problema2\problema2\problema2\main.cpp(16,31): warning C4309: 'argument': truncation of constant value
+C:\Users\Denis\Desktop\OOP\OOP2024\Lab3\problema2\problema2\problema2\main.cpp(17,32): warning C4309: 'argument': truncation of constant value
+  problema2.vcxproj -> C:\Users\Denis\Desktop\OOP\OOP2024\Lab3\problema2\problema2\x64\Debug\problema2.exe
