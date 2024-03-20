@@ -59,7 +59,7 @@ void Canvas::DrawLine(int x0, int y0, int x1, int y1, char ch) {
 		D = D + 2 * dy;
 	}
 }
-void Canvas::Print()// shows what was printed
+void Canvas::Print()
 {
 	for (int i = 0; i < this->h; i++)
 	{

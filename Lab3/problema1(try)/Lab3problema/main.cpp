@@ -1,22 +1,12 @@
 #include <iostream>
 #include <stdlib.h>
 #include <stdio.h>
-#include "Canvas.h"
+#include <cmath>
+#include "Math.h"
 using namespace std;
-int main()
-{
-	Canvas a;
-	printf("%d\n", a.Add(12, 13));
-	printf("%d\n", a.Add(12, 13, 22));
-	printf("%d\n", a.Add(12.8, 13.9));
-	printf("%d\n", a.Add(12.9, 13.7, 18.2));
-	printf("%d\n", a.Mul(12, 13));
-	printf("%d\n", a.Mul(12, 13, 22));
-	printf("%d\n", a.Mul(12.8, 13.9));
-	printf("%d\n", a.Mul(12.9, 13.7, 18.2));
-	printf("%d\n", a.Add(4, 1, 2, 4, 5));
-	printf("%s\n", a.Add("Masina", "Casa"));
-
-
-	return 0;
+int main() {
+    Math math;
+    char *  result = math.Add("15000000000000", "3500000000000000");
+    cout << "Adunarea cu char: " << result << endl;
+    cout << "Suma listei: " << math.Add(5, 1, 2, 3, 4, 5) << std::endl;
 }
