@@ -1,0 +1,15 @@
+﻿  main.cpp
+  Number.cpp
+  Generating Code...
+C:\Users\Denis\Desktop\OOP\OOP2024\Lab5\Problema1\Problema1\Number.cpp(16,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Denis\Desktop\OOP\OOP2024\Lab5\Problema1\Problema1\Number.cpp(26,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Denis\Desktop\OOP\OOP2024\Lab5\Problema1\Problema1\Number.cpp(45,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Denis\Desktop\OOP\OOP2024\Lab5\Problema1\Problema1\Number.cpp(50,19): warning C4244: '+=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Denis\Desktop\OOP\OOP2024\Lab5\Problema1\Problema1\Number.cpp(52,19): warning C4244: '+=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Denis\Desktop\OOP\OOP2024\Lab5\Problema1\Problema1\Number.cpp(84,18): warning C4244: '+=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Denis\Desktop\OOP\OOP2024\Lab5\Problema1\Problema1\Number.cpp(142,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Denis\Desktop\OOP\OOP2024\Lab5\Problema1\Problema1\Number.cpp(150,19): warning C4244: '+=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Denis\Desktop\OOP\OOP2024\Lab5\Problema1\Problema1\Number.cpp(152,19): warning C4244: '+=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Denis\Desktop\OOP\OOP2024\Lab5\Problema1\Problema1\Number.cpp(186,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Denis\Desktop\OOP\OOP2024\Lab5\Problema1\Problema1\Number.cpp(208,15): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Problema1.vcxproj -> C:\Users\Denis\Desktop\OOP\OOP2024\Lab5\Problema1\x64\Debug\Problema1.exe

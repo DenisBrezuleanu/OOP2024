@@ -8,7 +8,7 @@
 using namespace std;
 int main()
 {
-	Sort a(5, 30, 100);
+	Sort a(5, 30, 100); ///5 numere random
 	a.InsertSort();
 	a.Print();
 
