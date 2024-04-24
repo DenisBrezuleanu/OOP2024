@@ -8,7 +8,7 @@ Mazda::Mazda() {
 	this->tip = (char*)malloc(20 * sizeof(char));
 	strcpy(this->tip, "Mazda");
 	this->capacitate = 100;
-	this->consum = 1.1f;
+	this->consum = 0.8f;
 	this->speed = 0;
 
 }

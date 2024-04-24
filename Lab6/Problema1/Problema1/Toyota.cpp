@@ -8,7 +8,7 @@ Toyota::Toyota() {
 	this->tip = (char*)malloc(20 * sizeof(char));
 	strcpy(this->tip, "Toyota");
 	this->capacitate = 100;
-	this->consum = 1.2f;
+	this->consum = 0.8f;
 	this->speed = 0;
 
 }
@@ -20,7 +20,7 @@ float Toyota::GetSpeed(Weather vreme) {
 	switch (vreme)
 	{
 	case Sunny:
-		this->speed = 142;
+		this->speed = 500;
 		break;
 	case Rain:
 		this->speed = 95;

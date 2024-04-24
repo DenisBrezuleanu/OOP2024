@@ -53,7 +53,7 @@ void Circuit::ShowFinalRanks()// it will print the time each car needed to finis
 			printf("%d. Masina %s a terminat cursa in %.3f minute\n", ordine++, this->masini[i]->tip, this->timpi[i] * 60);
 	printf("-----------------------------------------------------\n");
 }
-void Circuit::ShowWhoDidNotFinis() // it is possible that some cars don't have enough fuel to finish the circuit
+void Circuit::ShowWhoDidNotFinis() // cele care nu ajung la final
 {
 	printf("-----------------------------------------------------\n");
 	printf("Masinile care NU au terminat cursa: \n");
