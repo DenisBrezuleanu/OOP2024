@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Denis\Desktop\OOP\OOP2024\Lab10\Problema1\Problema1\Header.h(123): warning C4715: 'Array<int>::operator[]': not all control paths return a value
+C:\Users\Denis\Desktop\OOP\OOP2024\Lab10\Problema1\Problema1\Header.h(146): warning C4715: 'Array<int>::Insert': not all control paths return a value
+C:\Users\Denis\Desktop\OOP\OOP2024\Lab10\Problema1\Problema1\Header.h(180): warning C4715: 'Array<int>::Delete': not all control paths return a value
+C:\Users\Denis\Desktop\OOP\OOP2024\Lab10\Problema1\Problema1\Header.h(165): warning C4715: 'Array<int>::Insert': not all control paths return a value
+  Problema1.vcxproj -> C:\Users\Denis\Desktop\OOP\OOP2024\Lab10\Problema1\x64\Debug\Problema1.exe
